@@ -1,3 +1,12 @@
+> [!IMPORTANT]
+> **Compass has moved to [Wikimedians-of-Kerala-UG-Technical/Compass](https://github.com/Wikimedians-of-Kerala-UG-Technical/Compass).**
+>
+> This repository was a fork of [nethahussain/wikitask-pro](https://github.com/nethahussain/wikitask-pro). Active development now continues in the new standalone (non-fork) repository.
+>
+> This repository is kept for its history. Its commits, pull requests and contributor credits remain here as the record of the work done before the move. See the [contributors](https://github.com/Wikimedians-of-Kerala-UG-Technical/Compass-Fork/graphs/contributors) and [commit history](https://github.com/Wikimedians-of-Kerala-UG-Technical/Compass-Fork/commits/main) for that work, and the [new repository](https://github.com/Wikimedians-of-Kerala-UG-Technical/Compass) for everything since.
+>
+> Please open new issues and pull requests in the [new repository](https://github.com/Wikimedians-of-Kerala-UG-Technical/Compass).
+
 <h1 align="center">Compass</h1>
 
 <p align="center">
